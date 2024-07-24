@@ -1,6 +1,7 @@
 # Naïve Bee Classification
-<div align="center">
-  <img src=![patrick-hendry-wTmdA5W2NgU-unsplash (1)](https://github.com/user-attachments/assets/62e6162c-502d-4d04-ad73-cfde29d06202) alt="Unsplash Image">
+
+<div style="text-align:center">
+  <img src="patrick-hendry-bee-unsplash.jpg" alt="Photo credit: Patrick Hendry, Source: Unsplash">
 </div>
 
 
