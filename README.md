@@ -16,5 +16,5 @@
 &nbsp;&nbsp; text here 
 &nbsp;&nbsp; in this project, using neural network to classify images of bees into 2 species: honey bees or bumble bees. 
 
-#### Notebook Link: 
+#### [Notebook Link] (URL :Naïve_Bee_Classification.ipynb")
 
