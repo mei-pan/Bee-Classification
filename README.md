@@ -11,8 +11,8 @@
 #### Lanuage: Python
 #### Data Source: DataCamp
 #### Project Background: 
-&nbsp;&nbsp; Bees plays a hug ecological role. Study of them can __________ <br>
-&nbsp;&nbsp; Species of bees have difference in appearance and behavior that differentiate one from the other. <br>
+&nbsp;&nbsp; Bees play a hug ecological role -- a powerful pollinater. Study of them can _____ <br>
+&nbsp;&nbsp; Species of bees have difference in appearance and behavior . <br>
 &nbsp;&nbsp; text here 
 &nbsp;&nbsp; in this project, using neural network to classify images of bees into 2 species: honey bees or bumble bees. <br>
 
