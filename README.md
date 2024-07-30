@@ -18,5 +18,5 @@
 
 &nbsp;&nbsp; in this project, utlitize CNN to build a binary bee classifer ( honey bee vs bumble bee) that can help reseacher collect field data effectiely. <br>
 
-#### [Notebook Link](URL "https://github.com/mei-pan/Bee-Classification/blob/e14cf3abd30c99f7f72394e6863fe2b7876d2c41/Nai%CC%88ve_Bee_Classification.ipynb")
+#### [Notebook Link](URL "https://github.com/mei-pan/Bee-Classification/blob/712ae19e8c4c03f89b9d5993052ed32db78e0192/Nai%CC%88ve%20Bees%3A%20Deep%20Learning%20with%20Images/Nai%CC%88veBees_classify.ipynb")
 
