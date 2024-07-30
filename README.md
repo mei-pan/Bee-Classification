@@ -7,14 +7,16 @@
  # Naïve Bee Classification
 
 #### Task: Image Classificaiton 
-#### Libaray: Scikit Learn, Scikit Image, TensforFlow/Keras
+#### Libraries: Scikit Learn, Scikit Image, TensforFlow/Keras, Numpy
 #### Lanuage: Python
-#### Data Source: DataCamp
+#### Source: DataCamp
 #### Project Background: 
-&nbsp;&nbsp; Bees play a hug ecological role -- a powerful pollinater. Study of them can _____ <br>
-&nbsp;&nbsp; Species of bees have difference in appearance and behavior . <br>
-&nbsp;&nbsp; text here 
-&nbsp;&nbsp; in this project, using neural network to classify images of bees into 2 species: honey bees or bumble bees. <br>
+&nbsp;&nbsp; Bees play a hug ecological role -- a powerful pollinater. Study them has become an important task for healthy of bee species and in large 
+&nbsp;&nbsp; the health of ecology and agriculture. <br>
+
+&nbsp;&nbsp; Species of bees have difference in appearances and behavior. but can a machine tell them apart?  <br>
+
+&nbsp;&nbsp; in this project, utlitize CNN to build a binary bee classifer ( honey bee vs bumble bee) that can help reseacher collect field data effectiely. <br>
 
 #### [Notebook Link](URL "https://github.com/mei-pan/Bee-Classification/blob/e14cf3abd30c99f7f72394e6863fe2b7876d2c41/Nai%CC%88ve_Bee_Classification.ipynb")
 
